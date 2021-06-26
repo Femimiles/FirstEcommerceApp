@@ -1,7 +1,7 @@
 # Introduction
 
 This is a sample e-commerce application built for learning purposes.
-
+small change here and there....
 Here's how to deploy it on CentOS systems:
 
 ## Deploy Pre-Requisites
